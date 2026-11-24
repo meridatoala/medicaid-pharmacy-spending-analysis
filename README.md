@@ -44,6 +44,26 @@ Based on the reported findings, stakeholders should further investigate the type
 
 **Question 3: Which medications have the highest average reimbursement per prescription in 2024?**
 
+The medications with the highest average reimbursement per prescription in 2024 are:
+
+1. Lumizyme - $92,032.94 average reimbursement per prescription.
+2. Duvyzat - $74,010.24
+3. Ravicti - $70,607.10
+4. Acthar - $67,982.56
+5. Elaprase - $59,539.18
+6. Vimizim - $54,222.66
+7. Firdapse - $51,000.04
+8. Gattex - $50,213.91
+9. Tepezzan -$45,489.69
+10. Daybue - $44,007.97
+
+
+**Business Recommendation:** 
+I would recommend for the stakeholders to conduct further analysis to see if removing prescription volume will have an affect on the total reimbursement amount per prescription. 
+
+
+**Question 4: What percentage of total pharmacy reimbursement is concentrated among the top 10 medications?**
+
 
  
 
