@@ -40,6 +40,12 @@ Additional review of utilization patterns, reimbursement trends, and available c
 **Business Recommendation:**
 Based on the reported findings, stakeholders should further investigate the types of medications and Medicaid programs contributing to the significant reimbursement increase from quarter 2 to quarter 3. An additional analysis is needed to distinguish the impact of volume driven increases and cost driven increases. Final recommendations can be presented after we can determine if reimbursement per prescription or changes in medication utilization were the contributing factors to the increase. 
 
-**Question 3:
+**Data limitation:** The analysis excludes records with missing reimbursement or prescription values, including suppressed observations. Results therefore represent the available records included in the analysis.
+
+**Question 3: Which medications have the highest average reimbursement per prescription in 2024?**
+
+
+ 
+
 
 
