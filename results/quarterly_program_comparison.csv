@@ -1,0 +1,9 @@
+"program_type","quarter","total_reimbursement","total_prescriptions","avg_reimbursement_per_rx","qoq_change_pct"
+"Fee-for-Service",1,"240719727.32","1319788","182.39",NULL
+"Fee-for-Service",2,"223805185.46","1209244","185.08","-7.03"
+"Fee-for-Service",3,"93377461.23","531102","175.82","-58.28"
+"Fee-for-Service",4,"63962196.11","377167","169.59","-31.50"
+"Managed Care",1,"569812489.49","3458422","164.76",NULL
+"Managed Care",2,"595515747.28","3549219","167.79","4.51"
+"Managed Care",3,"834483647.54","4478626","186.33","40.13"
+"Managed Care",4,"911837116.66","4897189","186.20","9.27"
